@@ -1,5 +1,8 @@
-/*div{font-family: Times;
+body{font-family: Times;
 color: white;
 font-size: 14px;
 background-color: black;
-padding-left: 3px;}*/
+padding-left: 3px;
+text-align: center;}
+
+#input{width: 20%;}
