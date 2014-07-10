@@ -7,7 +7,7 @@ $(document).ready(function(){
 var fizzBuzz=function(){
   var add, num, i;
   do {
-    num = prompt("Enter a number dammit!");
+    num = prompt("Enter a number!");
   } while (isNaN(Number(num)));
 
   for (i = 1; i <= num; i++) {
