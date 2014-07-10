@@ -1,3 +1,3 @@
 FizzBuzz
 ========
-http://scomonty.github.io/FizzBuzz/FizzBuzz.html
+https://scomonty.github.io/FizzBuzz/FizzBuzz.html
